@@ -5,7 +5,7 @@ Nuestra ventana consta de unos colores exoticos los cuales pensamos modificalor 
 Donde tenemos 3 elementos basicos que hemos agregado los cuales son Boton de buscar, TextEdit donde ingresamos los las palabras  
 Un recuadro de texto donde espermos salga la imagen y descrpcion del texto  
 
-##Expectativa
+## Expectativa
 ![Imagen del diseño](https://github.com/AxelGomez02/Proyecto_Hilos_ProgramacionDeSistema/blob/main/Imagenes/Sin%20t%C3%ADtulo.png?raw=true "Esquema de la interfaz")
-##Realidad
+## Realidad
 ![ImagenReal](https://github.com/AxelGomez02/Proyecto_Hilos_ProgramacionDeSistema/blob/main/Imagenes/Captura%20de%20pantalla%202022-10-18%20163256.png?raw=true "Interfaz Realizado")
